@@ -63,4 +63,5 @@ productos.addProduct(
 
 console.log(productos.getProducts());
 
+
 productos.findProductsById(2);
